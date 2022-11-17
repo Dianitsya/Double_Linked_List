@@ -13,7 +13,10 @@ namespace Double_Linked_List
         public Node next; /*points to the succeeding node*/
         public Node prev; /*points to the preceeding node*/
     }
-   
+    class DoubleLinkedList
+    {
+        Node START;
+        
         }
     }
 }
